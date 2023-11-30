@@ -121,6 +121,7 @@ textarea {
     .container {
         width: 95%;
         padding: 3px;
+        
     }
 
     .textarea{
@@ -147,6 +148,7 @@ textarea {
         font-size: 18px;
         width: 95%;
         padding: 10px;
+        padding-top: 50px
     }
 
     .bill-container h2 {
